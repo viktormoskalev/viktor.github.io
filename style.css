@@ -1,0 +1,29 @@
+body {
+
+    background: #f7f7f7;
+}
+
+main {
+    margin-top: 10px;
+    box-shadow: 0 0 4px #bebebe;
+    width: 460px;
+    background: #ffffff;
+    margin: auto;
+    padding: 40px 90px 200px
+}
+
+.january {
+    margin: -15px;
+}
+
+td {
+    padding: 5px;
+    width: calc(460px / 5);
+
+}
+
+table {
+
+    font-size: 9pt;
+
+}
